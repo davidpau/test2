@@ -20,7 +20,7 @@ Console.WriteLine("This is another statement");
 
 var blaha = new A();
 blaha.PrintA();
-
+// FindMinAndMax another change
 var blahb = new B();
 blahb.PrintA();
 
